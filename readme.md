@@ -5,8 +5,6 @@ Este é um projeto de Sistema Especialista construído em **SWI-Prolog** que ana
 A ideia é simples: você fornece os dados de uma rota (como quilometragem, número de alunos e custos de combustível) e o sistema calcula métricas-chave (como custo por aluno e eficiência).  
 Mais importante, ele usa um conjunto de regras lógicas para **diagnosticar problemas** (como “Baixa Eficiência” ou “Penalidade Crítica por Atraso”) e **explicar o porquê** de sua conclusão.
 
-Este projeto foi desenvolvido como um estudo prático de **Programação Lógica** e **modelagem de conhecimento**.
-
 ---
 
 ## 👨‍💻 Autores
@@ -14,14 +12,12 @@ Este projeto foi desenvolvido como um estudo prático de **Programação Lógica
 - [@VINIMACEDO010](https://github.com/VINIMACEDO010)
 - [@MisaelSarda](https://github.com/MisaelSarda)
 
-> *(Substitua os links acima pelos perfis reais do GitHub.)*
 
 ---
 
 ## 🧠 O Paradigma: Por que Prolog?
 
 O interessante deste projeto é o paradigma.  
-Em vez de escrever um código passo a passo (imperativo), a **Programação Lógica** nos permite focar em *“o que é verdade”*.
 
 Nós simplesmente definimos duas coisas:
 
@@ -77,7 +73,7 @@ Você vai precisar ter o [**SWI-Prolog**](https://www.swi-prolog.org/) instalado
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/SEU-USUARIO/transporte-escolar-prolog.git
+   git clone https://github.com/VINIMACEDO010/transporte-escolar-prolog
    cd transporte-escolar-prolog/src
    ```
 
@@ -185,8 +181,3 @@ Pressione [Enter] para voltar ao menu...
 - **Arquitetura Modular**
 
 ---
-
-## 📚 Licença
-
-Este projeto é de uso **educacional** e distribuído sob a licença **MIT**.  
-Sinta-se à vontade para usar, modificar e estudar o código.
